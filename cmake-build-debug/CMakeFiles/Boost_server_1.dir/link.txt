@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Boost_server_1.dir/main.cpp.o CMakeFiles/Boost_server_1.dir/func.cpp.o  -o Boost_server_1 -Wl,-rpath,/usr/local/lib /usr/local/lib/libboost_system.so /usr/local/lib/libboost_filesystem.so /usr/local/lib/libboost_thread.so 

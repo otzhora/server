@@ -1,0 +1,36 @@
+/home/yriy/Clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/yriy/CLionProjects/Boost_server_1
+CMake Warning at /home/yriy/Clion/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:744 (message):
+  Imported targets not available for Boost version 106300
+Call Stack (most recent call first):
+  /home/yriy/Clion/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:848 (_Boost_COMPONENT_DEPENDENCIES)
+  /home/yriy/Clion/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:1435 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:4 (find_package)
+
+
+CMake Warning at /home/yriy/Clion/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:744 (message):
+  Imported targets not available for Boost version 106300
+Call Stack (most recent call first):
+  /home/yriy/Clion/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:848 (_Boost_COMPONENT_DEPENDENCIES)
+  /home/yriy/Clion/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:1435 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:4 (find_package)
+
+
+CMake Warning at /home/yriy/Clion/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:744 (message):
+  Imported targets not available for Boost version 106300
+Call Stack (most recent call first):
+  /home/yriy/Clion/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:848 (_Boost_COMPONENT_DEPENDENCIES)
+  /home/yriy/Clion/bin/cmake/share/cmake-3.7/Modules/FindBoost.cmake:1435 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:4 (find_package)
+
+
+-- Boost version: 1.63.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   thread
+-- Boost_INCLUDE_DIRS: /usr/local/include
+-- Boost_LIBRARIES: /usr/local/lib/libboost_system.so;/usr/local/lib/libboost_filesystem.so;/usr/local/lib/libboost_thread.so
+-- Boost_VERSION: 106300
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yriy/CLionProjects/Boost_server_1/cmake-build-debug
